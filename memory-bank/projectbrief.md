@@ -19,7 +19,7 @@ serving the Dallas Fort Worth (DFW) metroplex.
 1. Yard Game Rentals — cornhole, horseshoes, ladder toss, giant connect, etc.
 2. NERF Battle Rentals — packages for birthdays, youth groups, team events.
 3. Party Packages — bundled multi-game setups.
-4. Delivery & Setup — door-to-door, handled for the customer.
+4. Pickup & Return — standard option. Delivery & pickup available for an additional fee.
 
 ## Service area
 Dallas, Fort Worth, McKinney, Plano, Frisco, Allen, Richardson, Garland,

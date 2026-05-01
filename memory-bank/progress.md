@@ -4,6 +4,20 @@
 
 ---
 
+## 2026-05-01 — Fulfillment model messaging updated (pickup/return default)
+
+**Status:** Complete.
+
+**Done:**
+- Updated public-facing copy in `index.html` to reflect a **pickup & return** default model.
+- Clarified that **delivery & pickup is available for an additional fee**.
+- Updated `memory-bank/projectbrief.md` to match the new messaging.
+
+**Notes:**
+- Hero positioning kept neutral (no delivery-first headline).
+
+---
+
 ## 2026-04-30 — CSS extracted to its own file + mobile-responsive pass
 
 **Status:** Complete.
